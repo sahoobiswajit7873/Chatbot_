@@ -1,0 +1,8 @@
+{
+    "upvotes": {
+        "greeting": 5,
+        "creator": 3,
+        "goodbye": 1
+    },
+    "downvotes": {}
+}
